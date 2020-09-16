@@ -46,6 +46,13 @@ public class Home extends AppCompatActivity {
     }
     public void logout(View View)
     {
-
+        FirebaseAuth.getInstance().signOut();
+        this.finish();
     }
+    public void   openabout(View view)
+    {
+        Intent intent=new Intent(this,AboutApp.class);
+        startActivity(intent);
+    }
+
 }
