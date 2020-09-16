@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdminParking</string>
+    <string name="access_token">pk.eyJ1IjoibXVkYXNzYXI3NjY0MiIsImEiOiJja2R3cDN1YzEydG9lMndtcTdlZG9kNWpmIn0.P47gxx_SKnVHBPoHzff-rw</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="location_picker_dropped_marker_snippet_no_results">location_picker_dropped_marker_snippet_no_results</string>
+    <string name="navigation_guidance_day"></string>
+</resources>
